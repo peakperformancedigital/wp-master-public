@@ -1,8 +1,8 @@
 <?php
 /**
- * Enable SVG Support In WP
+ * Sets default options in WordPress
  * 
- * @package         pkpd-wptheme\allow-svg
+ * @package         pkpd-wptheme\update-options
  * @author          Adam S. Lowe <adam@peakperformancedigital.com>
  * @copyright       2023 Peak Performance Digital 
  * @license         GPL-2.0-or-later
