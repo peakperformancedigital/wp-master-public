@@ -95,6 +95,4 @@ require __DIR__ . '/90_theme/google-analytics.php'; /*Enable Google Analytics vi
 require __DIR__ . '/90_theme/theme-css-styles.php'; /*Enqueues a default theme.css*/
 require __DIR__ . '/90_theme/theme-misc.php'; /*Add miscellaneous theme-related functions here*/
 require __DIR__ . '/90_theme/admin-css-styles.php'; /*Enqueue an admin stylesheet*/
-require __DIR__ . '/90_theme/update-options.php'; /* Sets default website options */ 
-
-
+require __DIR__ . '/90_theme/update-options.php'; /* Sets default options in WordPress */ 
